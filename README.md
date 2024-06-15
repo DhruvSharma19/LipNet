@@ -1,4 +1,4 @@
-# LipNet: Lip-Reading Full Stack Application 💬👄
+# LipNet: Lip-Reading Full Stack Application 💬
 
 Welcome to LipNet, a full-stack application for lip reading, originally developed from the LipNet deep learning model. This project combines deep learning with web development to provide a functional lip-reading application that predicts spoken words from video inputs.
 LipNet utilizes a deep learning model trained to read lips from video sequences. The application processes video inputs, extracts relevant frames, and uses a pre-trained model to predict the spoken words. The web interface allows users to upload videos, view the processed frames, and see the model's predictions in real-time.
